@@ -62,6 +62,8 @@ To run the main CRUD application (Task 2):
 - The AI generation in the web app currently uses a determinist simulation (`aiService.js`) based on the logic defined in Task 1. It creates realistic, context-aware responses without requiring a live OpenAI API key for this demo.
 - The UI is built with a "Premium" aesthetic in mind, utilizing glassmorphism and smooth animations.
 
+
+https://ag6589.github.io/Internal-Business-Automation-CRUD-Application-/
 ---
 
 **Author**: Arin Gupta
