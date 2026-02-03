@@ -86,5 +86,5 @@ https://ag6589.github.io/Internal-Business-Automation-CRUD-Application-/
 
 
 
-**Author**: Arin Gupta
+**Author**: Aman Gupta
 **Submission For**: Iron Lady Assignment
