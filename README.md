@@ -70,5 +70,21 @@ To run the main CRUD application (Task 2):
 https://ag6589.github.io/Internal-Business-Automation-CRUD-Application-/
 ---
 
+<img width="1917" height="824" alt="image" src="https://github.com/user-attachments/assets/c441dc59-734f-4d39-9a31-7a0b3b2f58b6" />
+<img width="1910" height="810" alt="image" src="https://github.com/user-attachments/assets/1e567ce4-d390-4d88-ad11-1a7b4b9e5c8e" />
+<img width="1913" height="812" alt="image" src="https://github.com/user-attachments/assets/ab1c94ec-584a-42b0-9242-3a7f60309c43" />
+<img width="1910" height="819" alt="image" src="https://github.com/user-attachments/assets/9e28cb94-af2f-4b9f-82f2-0196c641d04e" />
+<img width="1906" height="814" alt="image" src="https://github.com/user-attachments/assets/27828db1-737f-4de0-90ed-51c0e120f0d4" />
+<img width="1911" height="814" alt="image" src="https://github.com/user-attachments/assets/12fc53f0-d906-4cbb-8293-7e2cbd76b881" />
+<img width="1909" height="817" alt="image" src="https://github.com/user-attachments/assets/a21fa796-5168-45f1-b954-a3d367ff479d" />
+<img width="1919" height="817" alt="image" src="https://github.com/user-attachments/assets/e360cbd0-638a-4a97-a2b3-4599669c9ce9" />
+
+
+
+
+
+
+
+
 **Author**: Arin Gupta
 **Submission For**: Iron Lady Assignment
